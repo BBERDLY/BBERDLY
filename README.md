@@ -27,3 +27,6 @@
 </div>
 
 ###
+<img data-importer="image" height="200" src="https://media.discordapp.net/attachments/1249192159148507136/1534308997044113508/Untitled119_20260804161525.jpg?ex=6a73a81a&is=6a72569a&hm=5e43debf8350612cd9f30ac66d1ba1a3df2fc835250c0ddedd60e727f837f07d&=&format=webp&width=1280&height=1280"  />
+
+###
