@@ -28,7 +28,6 @@
 
 ###
 <div data-importer="image" align="center">
-<img data-importer="image" height="200" src="https://media.discordapp.net/attachments/1249192159148507136/1535824514263416882/FT7qpAAAABklEQVQDAMmUTtCvFGqRAAAAAElFTkSuQmCC.png?ex=6a792b8a&is=6a77da0a&hm=39ad111978fd7ac8cbdc99decd7440dcef32bc360a7800be2a2499574eb231b5&=&format=webp&quality=lossless
-"  />
+<img data-importer="image" height="200" src="https://media.discordapp.net/attachments/1249192159148507136/1535824514263416882/FT7qpAAAABklEQVQDAMmUTtCvFGqRAAAAAElFTkSuQmCC.png?ex=6a792b8a&is=6a77da0a&hm=39ad111978fd7ac8cbdc99decd7440dcef32bc360a7800be2a2499574eb231b5&=&format=webp&quality=lossless"  />
 
 ###
